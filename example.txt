@@ -1,0 +1,5 @@
+Hello
+Welcome to the world of pythonThis line is added using append mode
+This line is added using append mode
+This is with the with statement  
+This is with the with statement  
